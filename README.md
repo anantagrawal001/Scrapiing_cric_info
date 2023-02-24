@@ -1,8 +1,32 @@
-# Scrapiing_circ_info
-Hi Everyone!
-I made a project based on Web Scraping.Here I extracted teams data of cricket world  cup 2019 (Men's) Used the data to edit and design a template that I made... Explored and tried a few npm libraries. Learned about dependencies on other libraries. 
-in this project, I learn about libraries how to implicate and ways of implicating libraries
-I used libraries like PDF-LIB, EXCEL4NODE, AXIOS, etc. for more please follow the code
-if you have projects and some work related to this type of project I included the contact me file for reaching to me
-Had a lot of fun building this. 
-thankyou
+## Cricket World Cup 2019 Data Extraction and Template Design
+
+This project is a web scraping-based project that focuses on extracting team data from the Men's Cricket World Cup 2019. The extracted data was used to edit and design a template. Several npm libraries were used in this project, such as PDF-LIB, EXCEL4NODE, AXIOS, etc.
+
+
+Getting Started
+
+To get started with this project, you can clone the repository to your local machine and install the required npm packages using the npm install command.
+
+
+
+Running the Project
+
+Once you have installed the necessary dependencies, you can run the project using the node index.js command. This will execute the script and generate a PDF and Excel file containing the extracted data.
+
+
+Contributing
+
+We welcome contributions from the community to improve this project. If you have any suggestions or improvements, please feel free to fork the repository and submit a pull request.
+
+
+Contact
+
+If you have any questions or want to discuss the project, feel free to contact us through the contact-me file in the repository.
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+Thank you for your interest in this project. We hope you find it useful and informative.
